@@ -1,4 +1,4 @@
-% Program that computes M^-1}*U, with M the mass matrix that appears in the
+% Program that computes M^{-1}*U, with M the mass matrix that appears in the
 % 9 point formula. Instead of calculating M^{-1}U, we solve system Mx=U 
 % by using Gauss-Seidel
 

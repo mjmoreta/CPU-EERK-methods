@@ -1,4 +1,4 @@
-% Program that calculated A*U, donde with A the matrix that appears in the 
+% Program that calculates A*U, donde with A the matrix that appears in the 
 % 9 point formulas. Matrix A is very large, so it is not calculated
 
 function Au=multA(dim,u)
